@@ -1,5 +1,7 @@
 # Supply Chain Work Bucket Map
 
+> 📋 **Flag definitions:** See [docs/flag-definitions.md](flag-definitions.md) for definitions of all issue flags used in the Flags column below.
+
 ## Mindmap
 
 ```mermaid
